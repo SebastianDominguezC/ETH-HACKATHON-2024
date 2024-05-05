@@ -1,4 +1,5 @@
 # ETH-HACKATHON-2024
+## TEAM NAME: JUPITER'S TURKISH TACO
 
 Installation instructions. In this example we use python3's venv. Feel free to use conda or any other package manager of your choice.
 
